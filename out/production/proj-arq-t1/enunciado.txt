@@ -1,0 +1,19 @@
+Considere o seguinte cenário: o dono de uma empresa de leilões deseja que 
+seja desenvolvida uma solução para 
+permitir que se realize leilões virtuais. 
+Em um leilão, um vendedor anuncia um produto que deseja vender e
+ compradores interessados fazem lances de valores pelo produto. 
+ O leilão acaba quando o período termina, ou quando o vendedor encerra 
+ o leilão. O vendedor pode encerrar um leilão por aceitar um lance enviado, 
+ ou porque não tem mais interesse na venda. A empresa de leilões recebe 
+ valores na inscrição de um leilão de um produto, e quando um produto é 
+ vendido recebe um percentual da venda. As transações financeiras são 
+ realizadas com uso de cartão de crédito. 
+
+Individualmente ou em dupla:
+
+- identifique padrões de arquitetura que poderiam ser aplicados nesta solução
+
+- utilizando a ferramenta CASE Astah, crie um diagrama de componentes UML e modele os principais componentes (e relacionamentos) da arquitetura do software.
+
+- no diagrama criado, insira uma nota de comentário que indique os padrões de arquitetura de software identificados.
